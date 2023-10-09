@@ -1,15 +1,16 @@
 /* Estilo general del cuerpo de la página */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #121212; /* Color de fondo oscuro */
+    color: #fff; /* Color de texto blanco */
     margin: 0;
     padding: 0;
 }
 
 /* Estilo del encabezado */
 header {
-    background-color: #3498db;
-    color: #fff;
+    background-color: #000; /* Fondo negro */
+    color: #3498db; /* Texto azul */
     text-align: center;
     padding: 20px;
 }
@@ -26,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #3498db; /* Enlaces en azul */
     text-decoration: none;
 }
 
@@ -34,15 +35,16 @@ nav ul li a {
 section {
     margin: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #222; /* Fondo gris oscuro */
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    color: #fff; /* Texto blanco */
 }
 
 /* Estilo del pie de página */
 footer {
     text-align: center;
-    background-color: #3498db;
-    color: #fff;
+    background-color: #000; /* Fondo negro */
+    color: #3498db; /* Texto azul */
     padding: 10px;
 }
