@@ -1,3 +1,4 @@
+/* Estilo general del cuerpo de la página */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -5,6 +6,7 @@ body {
     padding: 0;
 }
 
+/* Estilo del encabezado */
 header {
     background-color: #3498db;
     color: #fff;
@@ -12,6 +14,7 @@ header {
     padding: 20px;
 }
 
+/* Estilo de la navegación */
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -27,6 +30,7 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* Estilo de las secciones */
 section {
     margin: 20px;
     padding: 20px;
@@ -35,6 +39,7 @@ section {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Estilo del pie de página */
 footer {
     text-align: center;
     background-color: #3498db;
